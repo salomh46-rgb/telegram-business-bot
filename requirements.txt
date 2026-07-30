@@ -1,6 +1,7 @@
-# === Telegram Business Auto-Reply Bot ===
+# === Javohirbek AI Business Bot ===
 # Versiyalar 2026-yil iyul holatiga aniq (pinned) qilingan
 
 aiogram==3.30.0         # Telegram Bot API (business_message, business_connection)
 aiohttp==3.14.3         # Yengil asinxron HTTP web-server (health-check)
+openai==2.50.0          # AI qatlam: Gemini/OpenAI universal SDK (AsyncOpenAI)
 python-dotenv==1.2.2    # Lokal ishga tushirishda .env faylni o'qish
